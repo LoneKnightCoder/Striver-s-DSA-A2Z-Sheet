@@ -3,8 +3,8 @@ This repository contains my personal solutions to the *Striver's A2Z DSA Placeme
 
 ## 🚀 Progress Tracker
 - [x] Step 1: Learn the Basics
-- [ ] Step 2: Learn Important Sorting Techniques
-- [ ] Step 3: Solve Problems on Arrays
+- [ ] Step 2: Solve Problems on Arrays
+- [ ] Step 3: Learn Important Sorting Techniques
 - [ ] Step 4: Binary Search
 - [ ] Step 5: Strings
 - [ ] Step 6: Learn LinkedList (Single LL, Double LL, Medium, Hard Problems)
